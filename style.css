@@ -8,53 +8,88 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
 .Fonte-1
  {
+  color: whitesmoke;
   font-family: "Ballet", cursive;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
-  
+  text-shadow: 1px 5px 6px blue;
+
 }
 
 .Fonte-2
 {
+  color: whitesmoke;
   font-family: "Kenia", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 50px;
+  text-shadow: 1px 5px 6px blue;
+
 }
 
 
-.Fonte-3 {
+.Fonte-3 
+{
+  color: whitesmoke;
   font-family: "Oi", serif;
   font-weight: 400;
   font-style: normal;
   font-size: 40px;
+  text-shadow: 1px 5px 6px blue;
+
+
 }
 
 
 .Fonte-4
  {
-  
+  color: whitesmoke;
   font-family: "Madimi One", sans-serif;
   font-size: 50px; 
-   
+  text-shadow: 1px 5px 6px blue;   
 }
 
 .Fonte-5
 {
+  color: whitesmoke;
   font-size: 50px;
+  text-shadow: 1px 5px 6px blue;
+
 }
 
 
-.h3
+h3
+{    
+  color: blue;
+  text-shadow: 1px 5px 6px blue;
+}
+
+body
 {
+  background-color: burlywood
+}
+
+h1
+{
+  background-color: royalblue;
+  font-family: "Staatliches", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   text-align: center;
+  font-size: 60px;
+
+    text-shadow: 1px 6px 5px #000000
+
+
 }
 
-.body
+a
 {
-  background-color: burlywood;
+  text-decoration: none;
 }
